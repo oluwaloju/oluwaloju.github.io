@@ -1,0 +1,28 @@
+selector(
+property:value;
+)
+*{
+	background-image: url(C:/Users/omofade%20oluwaloju/Pictures/Saved%20Pictures/Beautiful%20system.jpg); 
+}
+body { 
+    background-image: url(file:///C:/Users/omofade%20oluwaloju/Pictures/Saved%20Pictures/Beautiful%20system.jpg); 
+    background-position: center center; 
+    background-size: 100% 100%; 
+} 
+
+div{
+text-align-last: center;
+color: blue;
+}
+
+button{
+	cursor: pointer;
+	text-align: center;
+	border-top-right-radius: 1px;
+	border-top-left-radius: 1px;
+	border-bottom-right-radius: 1px;
+	border-bottom-left-radius: 1px;
+    color: pink;
+}
+
+
